@@ -1,0 +1,16 @@
+name: aescryptojs
+description: encrypt and desencrypt compatible with CryptoJS
+version: 1.0.0
+homepage: https://medium.com/@chingsuehok/cryptojs-aes-encryption-decryption-for-flutter-dart-7ca123bd7464
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  tuple: ^2.0.0
+  encrypt: ^5.0.1
+  crypto: ^3.0.2
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
