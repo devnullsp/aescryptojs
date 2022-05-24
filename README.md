@@ -21,7 +21,7 @@ void main() {
 
 This package its not mine. 
 
-Thanks to __Ching Sue Hok__
+Thanks to __Ching Sue Hok__ and i think the original is from __Nguyen Phạm__ but i dont have any url.
 
 More info at
 https://medium.com/@chingsuehok/cryptojs-aes-encryption-decryption-for-flutter-dart-7ca123bd7464
